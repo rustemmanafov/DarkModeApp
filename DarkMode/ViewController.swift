@@ -21,8 +21,9 @@ class ViewController: UIViewController {
 
     @IBAction func darkModeAct(_ sender: Any) {
         if #available(iOS 13.0, *) {
+//            UIApplication.shared.windows.forEach { window in
+//            }
             let appDelegate = UIApplication.shared.windows.first
-
             if (sender as AnyObject).isOn {
                 appDelegate?.overrideUserInterfaceStyle = .dark
                 return

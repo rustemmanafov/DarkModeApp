@@ -46,7 +46,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="Kx0-li-4Nd">
                         <barButtonItem key="rightBarButtonItem" style="plain" id="kRN-nJ-R62">
-                            <switch key="customView" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" id="a0D-Wh-csm">
+                            <switch key="customView" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" id="a0D-Wh-csm">
                                 <rect key="frame" x="343" y="6.5" width="51" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
